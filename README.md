@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Yash:
 🛰️ I’m currently working on<br><br>Improving my Python, Java, and SQL skills through real-world projects and dashboards.<br><br>🤝 I’m looking to collaborate on<br><br>Beginner-friendly software projects, dashboards, and learning-focused open-source work.<br><br>🧠 I’m looking for help with<br><br>Understanding advanced SQL, backend development, and deploying projects.<br><br>🌱 I’m currently learning<br><br>Django, Power BI, and mobile development fundamentals.<br><br>💬 Ask me about<br><br>Python mini projects, Java Swing apps, SQL queries, MongoDB CRUD, and dashboards.<br><br>⚡ Fun fact<br><br>I enjoy designing posters on Canva and exploring tech concepts through daily learning!
 
 
