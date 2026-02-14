@@ -1,5 +1,61 @@
-# 💫 Hi, I'm Yash
-🛰️ I’m currently working on<br><br>Improving my Python, Java, and SQL skills through real-world projects and dashboards.<br><br>🤝 I’m looking to collaborate on<br><br>Beginner-friendly software projects, dashboards, and learning-focused open-source work.<br><br>🧠 I’m looking for help with<br><br>Understanding advanced SQL, backend development, and deploying projects.<br><br>🌱 I’m currently learning<br><br>Django, Power BI, and mobile development fundamentals.<br><br>💬 Ask me about<br><br>Mini python projects, Java Swing apps, SQL queries, MongoDB CRUD, and dashboards.<br><br>⚡ Fun fact<br><br>I enjoy designing posters on Canva and exploring tech concepts through daily learning!
+<h1 align="center">💫 Hi, I'm Yash Jogdand</h1>
+
+<p align="center">
+IT Engineering student passionate about building practical software,
+data dashboards, and learning technology through real-world projects.
+</p>
+
+<hr>
+
+<h3>🛰️ What I'm Currently Working On</h3>
+<p>
+Building real-world applications and dashboards while improving my
+<b>Python, Java, SQL, and Data Analytics</b> skills.  
+Currently developing projects involving Java Swing applications,
+database-driven systems, and Power BI analytics dashboards.
+</p>
+
+<h3>🤝 Open to Collaboration</h3>
+<p>
+Beginner-friendly software projects, dashboard development,
+and learning-focused open-source contributions where I can
+build, learn, and grow with other developers.
+</p>
+
+<h3>🧠 Currently Learning & Exploring</h3>
+<ul>
+  <li>Django & backend development fundamentals</li>
+  <li>Advanced SQL and database optimization</li>
+  <li>Power BI dashboard design and data storytelling</li>
+  <li>Mobile development basics</li>
+</ul>
+
+<h3>🚀 Technical Skills</h3>
+<ul>
+  <li><b>Languages:</b> Python, Java, SQL</li>
+  <li><b>Databases:</b> MySQL, MongoDB (CRUD Operations)</li>
+  <li><b>Development:</b> Java Swing Desktop Applications, JDBC</li>
+  <li><b>Data & Analytics:</b> Power BI, Data Dashboards</li>
+  <li><b>Tools:</b> Git, Canva (Design & Posters)</li>
+</ul>
+
+<h3>💬 Ask Me About</h3>
+<p>
+Java Swing projects • SQL queries • Database design •
+Python mini-projects • MongoDB CRUD • Power BI dashboards
+</p>
+
+<h3>⚡ Fun Fact</h3>
+<p>
+I enjoy designing posters on Canva and simplifying complex tech concepts
+by learning and building something new every day.
+</p>
+
+<hr>
+
+<p align="center">
+✨ <i>Learning by building — one project at a time.</i>
+</p>
 
 
 ## 🌐 Socials:
