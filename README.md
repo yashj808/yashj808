@@ -67,8 +67,7 @@ by learning and building something new every day.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashj808&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashj808&theme=github_dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=yashj808&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashj808&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashj808&theme=github_dark)
