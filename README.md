@@ -1,61 +1,115 @@
-<h1 align="center">💫 Hi, I'm Yash Jogdand</h1>
+<h1 align="center">👋 Hi, I'm Yash Jogdand</h1>
 
 <p align="center">
-IT Engineering student passionate about building practical software,
-data dashboards, and learning technology through real-world projects.
+🚀 Python Developer | AI Engineer | Backend Developer
+<br>
+Building AI-powered applications, scalable APIs, and data-driven solutions.
 </p>
 
 <hr>
 
-<h3>🛰️ What I'm Currently Working On</h3>
+<h2>🧠 About Me</h2>
+
 <p>
-Building real-world applications and dashboards while improving my
-<b>Python, Java, SQL, and Data Analytics</b> skills.  
-Currently developing projects involving Java Swing applications,
-database-driven systems, and Power BI analytics dashboards.
+Final-year Information Technology student passionate about
+Artificial Intelligence, Backend Development, and Data Analytics.
+I enjoy building practical software that combines AI, automation,
+and modern web technologies to solve real-world problems.
 </p>
 
-<h3>🤝 Open to Collaboration</h3>
-<p>
-Beginner-friendly software projects, dashboard development,
-and learning-focused open-source contributions where I can
-build, learn, and grow with other developers.
-</p>
-
-<h3>🧠 Currently Learning & Exploring</h3>
 <ul>
-  <li>Django & backend development fundamentals</li>
-  <li>Advanced SQL and database optimization</li>
-  <li>Power BI dashboard design and data storytelling</li>
-  <li>Mobile development basics</li>
+  <li>🤖 Exploring Agentic AI, LLM Applications, RAG Systems, and AI Workflows</li>
+  <li>⚙️ Building scalable APIs using Django and FastAPI</li>
+  <li>📊 Creating interactive dashboards and analytics solutions with Power BI</li>
+  <li>🚀 Constantly learning through projects, hackathons, and open-source contributions</li>
 </ul>
 
-<h3>🚀 Technical Skills</h3>
+<h2>🚀 Tech Stack</h2>
+
 <ul>
-  <li><b>Languages:</b> Python, Java, SQL</li>
-  <li><b>Databases:</b> MySQL, MongoDB (CRUD Operations)</li>
-  <li><b>Development:</b> Java Swing Desktop Applications, JDBC</li>
-  <li><b>Data & Analytics:</b> Power BI, Data Dashboards</li>
-  <li><b>Tools:</b> Git, Canva (Design & Posters)</li>
+  <li><b>Languages:</b> Python, Java, SQL, JavaScript</li>
+  <li><b>AI & Machine Learning:</b> TensorFlow, Keras, OpenCV, NumPy, Scikit-Learn</li>
+  <li><b>Generative AI:</b> LLMs, RAG, AI Agents, Agentic AI Workflows</li>
+  <li><b>Backend:</b> Django, FastAPI, REST APIs, JWT Authentication</li>
+  <li><b>Databases:</b> MySQL, MongoDB</li>
+  <li><b>Data Analytics:</b> Power BI, Data Visualization, Dashboard Development</li>
+  <li><b>Cloud & Tools:</b> AWS EC2, Git, GitHub, Postman, VS Code</li>
 </ul>
 
-<h3>💬 Ask Me About</h3>
+<h2>📌 Featured Projects</h2>
+
+<h3>🌱 AI Plant Disease Detection</h3>
+<ul>
+  <li>Built a CNN-based deep learning model for plant disease classification</li>
+  <li>Implemented using TensorFlow, Keras, OpenCV, and Python</li>
+  <li>Automated disease prediction from plant leaf images</li>
+</ul>
+
+<h3>🤖 Agentic AI & LLM Applications</h3>
+<ul>
+  <li>Worked on AI agent workflows and LLM-powered solutions</li>
+  <li>Explored Retrieval-Augmented Generation (RAG)</li>
+  <li>Focused on practical AI automation and intelligent assistants</li>
+</ul>
+
+<h3>🍽️ Little Lemon API</h3>
+<ul>
+  <li>Django REST Framework Backend</li>
+  <li>Authentication & Authorization</li>
+  <li>Menu Management and Order Processing</li>
+  <li>JWT Token-Based Security</li>
+</ul>
+
+<h3>🏏 IPL 2025 Analytics Dashboard</h3>
+<ul>
+  <li>Power BI dashboard built using web-scraped cricket data</li>
+  <li>Batting, Bowling, and Match Analysis</li>
+  <li>Interactive visualizations and performance insights</li>
+</ul>
+
+<h3>🍛 Food Redistribution System</h3>
+<ul>
+  <li>Database-driven application aimed at reducing food wastage</li>
+  <li>Food donation and request management platform</li>
+</ul>
+
+<h2>🌱 Currently Exploring</h2>
+
+<ul>
+  <li>Agentic AI Systems</li>
+  <li>Advanced Django & FastAPI</li>
+  <li>LLM Application Development</li>
+  <li>System Design Fundamentals</li>
+  <li>Cloud Deployment & Scalability</li>
+</ul>
+
+<h2>🤝 Open to Collaborate On</h2>
+
 <p>
-Java Swing projects • SQL queries • Database design •
-Python mini-projects • MongoDB CRUD • Power BI dashboards
+AI Applications • LLM Projects • Backend Development •
+Python Development • API Engineering • Data Analytics
 </p>
 
-<h3>⚡ Fun Fact</h3>
+<h2>💬 Ask Me About</h2>
+
 <p>
-I enjoy designing posters on Canva and simplifying complex tech concepts
-by learning and building something new every day.
+Python • AI Engineering • Machine Learning • LLMs • Agentic AI •
+Django • FastAPI • REST APIs • SQL • Power BI
+</p>
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+I love combining AI, backend development, and analytics to build
+real-world solutions that are both intelligent and practical.
 </p>
 
 <hr>
 
 <p align="center">
-✨ <i>Learning by building — one project at a time.</i>
+✨ Building intelligent software, one project at a time.
 </p>
+
 
 
 ## 🌐 Socials:
