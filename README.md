@@ -33,7 +33,7 @@ and modern web technologies to solve real-world problems.
   <li><b>Backend:</b> Django, FastAPI, REST APIs, JWT Authentication</li>
   <li><b>Databases:</b> MySQL, MongoDB</li>
   <li><b>Data Analytics:</b> Power BI, Data Visualization, Dashboard Development</li>
-  <li><b>Cloud & Tools:</b> AWS EC2, Git, GitHub, Postman, VS Code</li>
+  <li><b>Cloud & Tools:</b> AWS EC2, Git, Postman</li>
 </ul>
 
 <h2>📌 Featured Projects</h2>
@@ -77,10 +77,8 @@ and modern web technologies to solve real-world problems.
 
 <ul>
   <li>Agentic AI Systems</li>
-  <li>Advanced Django & FastAPI</li>
-  <li>LLM Application Development</li>
-  <li>System Design Fundamentals</li>
-  <li>Cloud Deployment & Scalability</li>
+  <li>RAG</li>
+  <li>LLM</li>
 </ul>
 
 <h2>🤝 Open to Collaborate On</h2>
